@@ -3,5 +3,6 @@ streamlit
 streamlit-chat
 streamlit-extras
 datetime
+subprocess
 pillow==9.4.0
 altair==4.0
