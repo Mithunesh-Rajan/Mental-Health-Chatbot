@@ -1,3 +1,5 @@
+!pip install subprocess
+
 import streamlit as st
 import pandas as pd
 import subprocess
